@@ -9,6 +9,6 @@ This ROS project extrapolates from the ROS package from <https://wiki.ros.org/he
 
 First the quadcopter should be instantiated using for example;
 
-"""
+```
 roslaunch hector_quadrotor_demo outdoor_flight_gazebo.launch
-"""
+```
