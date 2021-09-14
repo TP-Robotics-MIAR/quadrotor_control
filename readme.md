@@ -33,7 +33,7 @@ rosrun quadrotor_control pid.py 0.25 0.0001
 
 ### Notes
 
-Please ensure at the start of the scripts inside the scripts directory, you set the intepreter to the correct directory or use the global python intepreter as such;
+Please ensure at the start of the python files inside the scripts directory, you set the intepreter to your correct python virtual environment directory or use the global python intepreter as such;
 
 ```
 #!/usr/bin/python
